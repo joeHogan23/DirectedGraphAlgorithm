@@ -1,0 +1,11 @@
+﻿  Edge.cpp
+c:\users\joe_hogan\source\repos\sierejko_weighted_graph\sierejko_weighted_graph\media.h(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Graph.cpp
+c:\users\joe_hogan\source\repos\sierejko_weighted_graph\sierejko_weighted_graph\media.h(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Queue.cpp
+  Sierejko_Weighted_Graph.cpp
+c:\users\joe_hogan\source\repos\sierejko_weighted_graph\sierejko_weighted_graph\media.h(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Vertex.cpp
+c:\users\joe_hogan\source\repos\sierejko_weighted_graph\sierejko_weighted_graph\media.h(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Sierejko_Weighted_Graph.vcxproj -> C:\Users\Joe_Hogan\source\repos\Sierejko_Weighted_Graph\Debug\Sierejko_Weighted_Graph.exe
